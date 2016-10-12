@@ -13,5 +13,5 @@ var weekOrWeekend = function (day) {
 assert.equal(weekOrWeekend('Wednesday'), 'This is a weekday');
 assert.equal(weekOrWeekend('Sunday'), 'This is a weekend');
 
-console.log('Wednesday'), 'This is a weekday');
-console.log('Sunday'), 'This is a weekend');
+console.log(('Wednesday'), 'This is a weekday');
+console.log(('Sunday'), 'This is a weekend');
